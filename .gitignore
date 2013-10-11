@@ -7,7 +7,7 @@ bin-release/
 .actionScriptProperties
 
 # FlashDevelop project file, comment out if desired
-*.as3proj
+#*.as3proj
 
 # Flash Builder project property files
 .flexProperties

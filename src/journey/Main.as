@@ -3,6 +3,7 @@ package journey
 	import flash.display.Sprite;
 	import flash.events.Event;
 	
+	[Frame(factoryClass="journey.Preloader")]
 	public class Main extends Sprite 
 	{
 		
