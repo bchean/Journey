@@ -1,6 +1,19 @@
-The MIT License (MIT)
+Portions listed Copyright (c) 2009 Adam 'Atomic' Saltsman
+  src/org/flixel/*
 
-Copyright (c) 2013 Bo Chean
+Under The MIT License (reproduced below)
+
+With the following clause
+  NOTE FROM THE AUTHOR: As far as I know, you only have to include
+  this license if you are redistributing source code that includes
+  the Flixel library.  There is no need (or way, afaik) to include
+  it in your compiled flash games and apps!
+
+
+
+All else Copyright (c) 2013 Bo Chean
+
+The MIT License (MIT)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the "Software"), to deal in
